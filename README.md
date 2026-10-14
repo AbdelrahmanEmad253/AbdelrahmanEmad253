@@ -25,7 +25,7 @@ Tool-using LLM agents · data pipelines · applied ML · Alexandria, Egypt → w
 | [**LearNova**](https://github.com/AbdelrahmanEmad253/LearNova) | AI adaptive-learning platform. I was team lead, Scrum Master, and owner of all the data work and docs | Flutter · FastAPI · Supabase · Claude/Gemini |
 | [**TechMarket_Analysis**](https://github.com/AbdelrahmanEmad253/TechMarket_Analysis) | 600K+ tech job listings scraped from 7 platforms, with cleaning, a Power BI market view and a job recommender | Python · scraping · Power BI |
 | [**Heart-Disease-ML-PowerBI**](https://github.com/AbdelrahmanEmad253/Heart-Disease-ML-PowerBI-Capstone) | Prevention, diagnosis and prognosis models across 4 datasets, plus a BI dashboard | scikit-learn · Power BI |
-| **trigeminal-neuralgia-llm-ml** *(WIP, link once public)* | Research: an LLM pipeline extracts trigeminal neuralgia cases from PubMed, then ML predicts subtype and treatment outcome, with leakage checks | Python · LLM APIs · scikit-learn |
+| [**trigeminal-neuralgia-llm-ml**](https://github.com/AbdelrahmanEmad253/trigeminal-neuralgia-llm-ml) *(WIP, with Shahd Osama)* | Research: an LLM pipeline extracts trigeminal neuralgia cases from PubMed, then ML predicts subtype and treatment outcome, with leakage checks | Python · LLM APIs · scikit-learn |
 
 ### Toolbox
 
