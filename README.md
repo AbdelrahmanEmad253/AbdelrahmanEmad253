@@ -4,7 +4,8 @@ Tool-using LLM agents · data pipelines · applied ML · Alexandria, Egypt → w
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdelrahmanelsheriff">LinkedIn</a> ·
-  <a href="mailto:abdelrahmanemad2530@gmail.com">Email</a>
+  <a href="mailto:abdelrahmanemad2530@gmail.com">Email</a> ·
+  <a href="https://abdelrahman-elsherif.vercel.app">Portfolio</a>
 </p>
 
 ---
